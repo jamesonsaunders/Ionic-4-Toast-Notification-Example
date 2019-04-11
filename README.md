@@ -1,6 +1,6 @@
 # Ionic 4 Toast Notification Example
 
-This project accompanies the [Jami Bot](https://jamibot.com) YouTube video [Ionic 4 Toast Notification Tutorial](https://www.youtube.com/watch?v=09iuPkmtpdg) as well as the blog article [Ionic 4 Toast Notification Tutorial](https://blog.jamibot.com/ionic-4-toast).
+This project accompanies the [Jami Bot](https://jamibot.com) YouTube video [Ionic 4 Toast Notification Tutorial](https://www.youtube.com/watch?v=09iuPkmtpdg) as well as the blog article [Ionic 4 Toast Tutorial](https://blog.jamibot.com/ionic-4-toast).
 
 [![Ionic 4 Toast Notification Tutorial](https://img.youtube.com/vi/09iuPkmtpdg/maxresdefault.jpg)](https://www.youtube.com/watch?v=09iuPkmtpdg)
 
